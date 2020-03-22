@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\DisappearingPlatfom.cs" />
+    <Compile Include="Assets\Falling_platform.cs" />
     <Compile Include="Assets\movingplatforms.cs" />
     <Compile Include="Assets\Player.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
