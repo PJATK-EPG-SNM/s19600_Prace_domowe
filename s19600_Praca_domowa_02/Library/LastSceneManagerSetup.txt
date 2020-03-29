@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/las.unity
+- path: Assets/Scenes/laka.unity
   isLoaded: 1
   isActive: 1
